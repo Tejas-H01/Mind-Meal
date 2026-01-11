@@ -10,7 +10,7 @@ app = FastAPI()
 app.add_middleware(
     CORSMiddleware,
     allow_origins=[
-        "https://tejas-h01.github.io/Mind-Meal/",
+        "https://tejas-h01.github.io",
         "https://mind-meal-nej8.onrender.com"
     ],
     allow_credentials=True,
