@@ -15,7 +15,8 @@ It generates realistic food images using an AI image API, maintains a smart pant
 
 🚀 The project is live and can be accessed here:
 
-👉 **Live Demo:** [Visit the Website](https://tejas-h01.github.io/Mind-Meal/)
+👉 **Live Demo:** [Visit the Website]( https://tejas-h01.github.io/Mind-Meal/)
+
 ---
 
 ## ⭐ Features
